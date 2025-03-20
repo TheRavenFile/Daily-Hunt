@@ -1,6 +1,7 @@
 VanHelsing Ransomware
 =====================
 Appeared on 18th March 2025, listing 3 victims with Countdown timer of 13 days
+Encrypted Extension: .vanhelsing, .vanlocker
 Affected: US, France
 File Trees of the victims are listed on the DLS
 DLS and Chat Panel Server hosted with nginx/1.18.0 (Ubuntu)
