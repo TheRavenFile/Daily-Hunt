@@ -2,16 +2,28 @@ VanHelsing Ransomware
 =====================
 Appeared on 18th March 2025, listing 3 victims with Countdown timer of 13 days
 Encrypted Extension: .vanhelsing, .vanlocker
+Targets Windows Platform
+Filename: locker.exe
 Affected: US, France
 File Trees of the victims are listed on the DLS
 DLS and Chat Panel Server hosted with nginx/1.18.0 (Ubuntu)
 Demanded a Ransom Amount: $40K
+Both are hosted with Xhost Internet Solutions Lp, as their IPs got exposed
+Encrypt data using Curve25519, AES via x86 extensions, Salsa20 or ChaCha
+Encode data using XOR
+Creates mutex: Global\VanHelsing
 
 
 MD5 Hashes
 ==========
 3e063dc0de937df5841cb9c2ff3e4651
 5c254d25751269892b6f02d6c6384aef
+
+INTERNALS
+=========
+C:\Users\ADMINI~1\AppData\Local\Temp\2\74edcda8581f9636c83352ad946821b0\1-locker\Release\1-locker.pdb 
+C:\Users\ADMINI~1\AppData\Local\Temp\2\cd9563b4cbc415b3920633b93c0d351b\1-locker\Release\1-locker.pdb 
+Mutex: Global\VanHelsing
 
 
 DLS
@@ -28,6 +40,11 @@ http://vanhelcbxqt4tqie6fuevfng2bsdtxgc7xslo2yo7nitaacdfrlpxnqd.onion
 http://vanhelqmjstkvlhrjwzgjzpq422iku6wlggiz5y5r3rmfdeiaj3ljaid.onion
 http://vanhelsokskrlaacilyfmtuqqa5haikubsjaokw47f3pt3uoivh6cgad.onion
 http://vanheltarnbfjhuvggbncniap56dscnzz5yf6yjmxqivqmb5r2gmllad.onion
+
+IP ADDRESSES
+============
+193.37.69.225: VanHelsing Chat
+193.37.69.162: VanHelsing Blog
 
 
 BTC Address: bc1qw92kdpnedjd037lxej9q9336y05v7gql0u4qcv
