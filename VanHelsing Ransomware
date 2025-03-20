@@ -1,6 +1,8 @@
 VanHelsing Ransomware
 =====================
-Appeared on 18th March 2025, listing 2 victims with Countdown timer of 13 days
+Appeared on 18th March 2025, listing 3 victims with Countdown timer of 13 days
+Affected: US, France
+File Trees of the victims are listed on the DLS
 DLS and Chat Panel Server hosted with nginx/1.18.0 (Ubuntu)
 Demanded a Ransom Amount: $40K
 
@@ -28,4 +30,4 @@ http://vanheltarnbfjhuvggbncniap56dscnzz5yf6yjmxqivqmb5r2gmllad.onion
 
 
 BTC Address: bc1qw92kdpnedjd037lxej9q9336y05v7gql0u4qcv
-
+TOX ID: FEE914521FB507AB978107ACE3B69B4CA41DA89859408BAE23E1512E8C2E614A26C5FFD482A3
