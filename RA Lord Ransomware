@@ -1,12 +1,33 @@
-DLS: ralordqe33mpufkpsr6zkdatktlu3t2uei4ught3sitxgtzfmqmbsuyd.onion
+🔎INTEL
+========
+📌RALord Appeared with 2 Victims affecting Education and Engineering Sector 🇫🇷 🇦🇷
+📌RA Lord made their DLS more friendly, as sectors of the victims also mentioned in the Leak Site
+💡RA Lord started to advertise their recruitment on March 19, 2025 on a Forum
+📌RA Lord demands to code their encryptor using Python and Rust
+📌Fortinet, SonicWall, Cisco are targeted
+📌Bruteforcing and CVE Exploits are also welcomed by the group
+💡RALord Admin's username is "ForLord"
+📌Appends the file using .RALord extension and uses RC4 PRGA for Encryption
+📌Group uses Vanity TOR Domain Names for their DLS
+💡RA Lord Appeared recently, and RA World got shut down
+💡RA World also made use of Go File Storage to host their Samples 
 
-qTOX:
+
+IOCs
+====
+
+MD5: be15f62d14d1cbe2aecce8396f4c6289
+
+DLS
+===
+ralord3htj7v2dkavss2hjzviviwgsf4anfdnihn5qcjl6eb5if3cuqd.onion
+ralordqe33mpufkpsr6zkdatktlu3t2uei4ught3sitxgtzfmqmbsuyd.onion
+ralordt7gywtkkkkq2suldao6mpibsb7cpjvdfezpzwgltyj2laiuuid.onion
+
+qTOX
+====
 8E9A6195A769FE7115F087C61D75CF32874C339B3AB0947D07480C9A8A12DA5009151BE6A51F
 0C8E5B45C57AE244E9C904C5BC74F73306937469D9CEA22541CA69AC162B8D42A20F4C0382AC
 
 Session: 054f55ec93aca9bac362b9d91eff36a7ce451e7caba47c0b2e004ba429f9529c79
-
-MD5
-be15f62d14d1cbe2aecce8396f4c6289
-
 
