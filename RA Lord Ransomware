@@ -10,7 +10,8 @@
 📌Appends the file using .RALord extension and uses RC4 PRGA for Encryption
 📌Group uses Vanity TOR Domain Names for their DLS
 💡RA Lord Appeared recently, and RA World got shut down
-💡RA World also made use of Go File Storage to host their Samples 
+💡RA World also made use of Go File Storage to host their Samples
+💡RA World sample had been seen with 25% code match with FunkSec Ransomware and currently FunkSec Ransomware goes offline
 
 
 IOCs
