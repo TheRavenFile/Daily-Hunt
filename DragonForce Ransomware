@@ -13,7 +13,7 @@ DRAGONFORCE INTEL🐲🔍
 💡11 Samples of DragonForce Ransomware that are detected was created on 23rd September 2024
 💡DragonForce Affiliates had made use of leaked builder of LockBit in their operations, as 4 such samples were uncovered
 💡It can be assumed that DragonForce had a bug previously, which was cleared in the next version circulating as "dragon_patched"
-📌DragonForce group uses Binary equivalent of "DragonForce" on their Ransom Note
+📌DragonForce group uses Binary equivalent of "DragonForce" (01000100 01110010 01100001 01100111 01101111 01101110 01000110 01101111 01110010 01100011 01100101) on their Ransom Note
 📌Data Encoding: Base64, XOR
 📌Data Encryption: Salsa20 or ChaCha
 
