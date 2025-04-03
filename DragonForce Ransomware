@@ -1,11 +1,22 @@
-DRAGONFORCE INTRO
-=================
+DRAGONFORCE INTEL🐲🔍
+=====================
 📌105 Victims since December 2023
 📌Most affected Sector: Manufacturing, Construction
-📌Most affected Country: 🇺🇸 🇬🇧 🇦🇺 🇨🇦 🇮🇹
+📌Most affected Country: 🇺🇸 🇬🇧 🇦🇺 🇨🇦 🇮🇹 🇨🇳
 📌Notable Victims: Palau Government, Yakult Australia, Coca-Cola Singapore
 📌Used Tools: Cobalt Strike, SystemBC, Mimikatz, ADFind, Powershell
 📌Initially used dedicated site for each victims to host their data, but then moved to a centralized domain that hosts all the leaks together
+💡DragonForce Ransomware Group changed their File Server and moved their storage to another server in March- April 2025
+  dszmdx3jr7vggdaf2c5k4qunt4mxclelhgbtjlgewlkmlnfpsnsg3sad.onion
+📌Instead of Count-Down Timer, the group had directly put the Leak Time on their DLS
+💡It is notable that DragonForce had infected a major Chinese 🇨🇳 Manufacturer, hence removing a Chinese Nexus/Connection of the group
+💡11 Samples of DragonForce Ransomware that are detected was created on 23rd September 2024
+💡DragonForce Affiliates had made use of leaked builder of LockBit in their operations, as 4 such samples were uncovered
+💡It can be assumed that DragonForce had a bug previously, which was cleared in the next version circulating as "dragon_patched"
+📌Data Encoding: Base64, XOR
+📌Data Encryption: Salsa20 or ChaCha
+
+
 
 IOCs - MD5
 ==========
@@ -23,9 +34,11 @@ b97812a2e6be54e725defbab88357fa2
 d44071f255785c73909d64f824331ebf
 9db8f7378e2df01c842cfcb617e64475
 9a218d69ecafe65eae264d2fdb52f1aa
-2dd7cd2bf15eec7d62689435fca9c49c
-3c311cabe7de6a8c104f8f10541d392d
-12e22f588f6128cf1a042d1122556cd2
+e67e7b8e0fb6baff4f25bb05dd5a5e21
+3a6e2c775c9c1060c54a9a94e80d923a
+cd54780ee2213a05468fa0d24eedd576
+91acae0fff5ecbf0b65c3ddebb5a824a
+770c1dc157226638f8ad1ac9669f4883
 
 IP
 ==
@@ -38,6 +51,7 @@ TOR ONIONS
 3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion
 z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion
 dragonforxxbp3awc7mzs5dkswrua3znqyx5roefmi4smjrsdi22xwqd.onion
+dszmdx3jr7vggdaf2c5k4qunt4mxclelhgbtjlgewlkmlnfpsnsg3sad.onion
 
 FILE SERVERS
 ============
@@ -60,3 +74,9 @@ URLs
 ====
 http://3pktcrcbmssvrnwe5skburdwe2h3v6ibdnn5kbjqihsg6eu6s6b7ryqd.onion/login
 http://z3wqggtxft7id3ibr7srivv5gjof5fwg76slewnzwwakjuf3nlhukdid.onion/blog 
+
+
+TOX
+1C054B722BCBF41A918EF3C485712742088F5C3E81B2FDD91ADEA6BA55F4A856D90A65E99D20
+
+
