@@ -11,6 +11,7 @@ APOS INTEL🔍
 💡Their DLS hosted on Kestrel Server, which is unusual among Ransomware Groups
 💡Uses Blazor: A .NET frontend web framework that supports both server-side rendering and client interactivity in a single programming model
 💡Uses Flowbite on their Dark Web Site
+💡During Sample Analysis, found the traces of Cactus Ransomware (few matched strings)
 📌Most of the listed leaks are not present, this could be due to storage issues
 📌Affected Sectors: Healthcare, IT, Business, Manufacturing, Pharma, Telecom
 📌Victim Countries: India 🇮🇳,Brazil 🇧🇷,Paraguay 🇵🇾,France 🇫🇷,US 🇺🇸
@@ -30,4 +31,6 @@ c8c64113076101d13ee6dfad4ce1c934
 84b3d2b5c6ba0d6627e74c2c89f3b9a3
 bb62d73fcab6f29f95f9919e1dc0932c
 0f8b20c367c6cb2c2726a3495d1d8d28
+54fc9ad5b96b67529b27dae4b634f7f3 
+
 
