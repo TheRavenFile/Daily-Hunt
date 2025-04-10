@@ -1,0 +1,67 @@
+NOTE: This is an extensive research on https://socket.dev/blog/lazarus-expands-malicious-npm-campaign-11-new-packages-add-malware-loaders-and-bitbucket
+DATE: APRIL 2025
+
+💡INTEL
+========
+📌This is an extension of Marstech Campaign
+📌Out of 3 Command-Control Servers, 2 are hosted with ROUTERHOSTING
+📌Another C2 is hosted with STARK INDUSTRIES
+📌2 Hostnames found are:- WINDOWS-US-LAS0 and WIN-BS656MOF35Q
+📌One of the Hostname is identified to be used by BlackBasta Ransomware Group
+
+IP Addresses
+============
+45.61.151.71
+144.172.87.27
+185.153.182.241
+
+URLs
+====
+http://45.61.151.71/keys 
+http://45.61.151.71/payload/9/903 
+http://45.61.151.71/payload/9/904
+
+MD5
+===
+ce62c3af15d3edc882f3f1daaddbfafc
+085e4b56b671e2ddc9d15189a4ea5706
+e6691b7ad98c62cb2d6758f0479b54e8
+0213a5f72b3ee29a25af64e2ebe7b647
+f46150e9b2c107c4d9a2b2574c7df5b8
+9f99aa9c1419e0278201af779f2bb592
+21e5fc4531031ac7cf7104657aa22cb1
+6ed0c7c02dd5d193f870a86eae3be5ce
+11ec0c3634172590ada7a56200925db5
+f9abf8feb7eb47583990d3120bf2fb20
+e66ee37b29fad9831b29203ffd949d36
+6e7bd31e25d4c4dbb29d30d87861cf4c
+51a3b1ed9a7b443a1b94ce93069eb8f3
+4e6b0bb98e6240322c289e59a495c851
+f39a9d40772e171bf18ca694e1f28a56
+88b58965b495787c88b0f8bea54a047d
+f04fccd42ed7f3e56794fcd410de1057
+1f992a3bb237a94fe4ec3d482eae7096
+7d7d0e4dba9040ea6359d0403b467d67
+27617844f82a4922071537571b425ef8
+6bdd6165c45cc0ee296db5b31fb2009a
+e779b870b609ed9e2f3db3130d8c38e9
+9cdda0c5d5f456ab98ecd7f4855e839b
+06de69b656c6e1a8d90d59c37d5865e2
+61b7946c49e26ce5053835562a7e5661
+d7e7f7a702cefe2f8b39938871617c59
+e4df4d31cedaa9dd0aaecf0e5a4010f1
+707304726d9faef7fd8e57a986f50c1b
+8a20ac65aace7fa8a9b52b41455e61c7
+3c09174f8f30476900622e5c5d6496dd
+e893884274762962a4daa836602a9b9f
+79dd5e6d9fa7ce54df329de869e4fb91
+5303122f7f613c6a403a7f490a1005f2
+ae102489e3ef1be7de09b174f3641e3a
+6b5023f956ce94a6dc0c76e3228550b6
+19cfe29683ad3183cd868ed4850359aa
+f6c95f632c3a9f744941701c3e0638e2
+
+Hostnames
+=========
+WINDOWS-US-LAS0
+WIN-BS656MOF35Q
