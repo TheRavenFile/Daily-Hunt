@@ -1,15 +1,26 @@
-Brain Cipher Ransomware
-=======================
+BrainCipher Ransomware
+======================
 📌Brain Cipher emerged in July 2024, infected about 23 victims (as of 2024 December)
+📌5 Victims are added in 2025 (till April)
+📌Both Windows and Linux variants are available for BrainCipher 
+💡Some of the announced leaks are removed, suspecting a succesfull negotiation or any storage challenge
 📌Notable for leaking Indonesia's National Data Center
 📌Listed Deloitte UK; but didn't post any data
 📌Most Targeted Countries: 🇺🇸, 🇫🇷, 🇮🇱, 🇲🇽
 📌Most Targeted Sector: Service, Law, Manufacturer
 📌Using Network Tunneling for C2 Communications
-📌Brain Cipher using the leaked build of LockBit Black for their operations
-📌Most of their samples are collected from VX Underground Repository
-📌Brain Cipher Extensions: KUsfyVlDo, symy1n6ah
-📌The group suspected to have exploited CVE-2023-28252 (Microsoft Windows CLFS Driver Privilege Escalation Vulnerability)
+💡Brain Cipher using the leaked build of LockBit Black for their operations
+💡Most of their samples are collected from VX Underground Repository
+💡The encrypted extensions are borrowed from LockBit as they are using LockBit's leaked build for their operations
+💡The group suspected to have exploited CVE-2023-28252 (Microsoft Windows CLFS Driver Privilege Escalation Vulnerability)
+💡The Ransom demand ranges from $150,000 to $1,00,0000
+💡Demand to be paid with Monero (XMR) cryptocurrency
+💡In 2025, they have shifted their new Negotiation portal to new server with vanity TOR Domain starting with "brain"
+💡File Sharing Server of BrainCipher is hosted with nginx/1.18.0 (Ubuntu)
+📌"BrainCipher Client Area" is the name assigned for Negotiation Portal
+💡Most targeted filename of BrainCipher Ransomware is win_old.exe
+
+
 
 DLS: vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion
 
@@ -17,9 +28,14 @@ Chat Panel
 ==========
 77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion
 mybmtbgd7aprdnw2ekxht5qap5daam2wch25coqerrq2zdioanob34ad.onion
-p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion 
+p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion
+brain4zoadgr6clxecixffvxjsw43cflyprnpfeak72nfh664kqqriyd.onion
 
-File Server: cuuhrxbg52c5agytmtjpwfu7mrs4xtaitc4mukkiy2kqdxeqbcmuhaid.onion
+File Server
+===========
+cuuhrxbg52c5agytmtjpwfu7mrs4xtaitc4mukkiy2kqdxeqbcmuhaid.onion
+4ldgw2wuidqu5ef3rzx4byonf3y7rdnh43jiw2z4sbtjiwic6gkov7yd.onion
+zktnif5vckhmz5tyrukp5bamatbfhkxjnb23rspsanyzywcrx3bvtqad.onion
 
 IOC (MD5 SAMPLES)
 ================
@@ -29,3 +45,10 @@ IOC (MD5 SAMPLES)
 b32a8951fc4c2e4c2d63d17200ca0032
 714b31629c37dee57038ca4e52ef65ac
 71c109f3bf4da2fc0173b9bcff07e979
+41050b2b9f619cdd9916e3bdd5b9f2f9 
+0da1f4ede654e83241eaad7719a708a0 
+f94d17b5f232e9cfd2255ca9823cb18a 
+8b3a45ebb7f2331e90ac57a2a20536fd
+8dbd57b042bc63b9ecdc9e3e5506ce85
+a0efa7fb6dff1e035510ec1f42e083e4
+
