@@ -1,0 +1,32 @@
+INTEL🔍
+=======
+💡Targets Windows Platform
+📌Targeted Sector: Healthcare, Manufacturing, Tech
+📌Targeted Countries: Panama 🇵🇦, Egypt 🇪🇬, Japan 🇯🇵
+💡Initial Access: Spear Phishing Document
+💡There is a 29% code-base match with Conti Ransomware
+💡The initial sample was coded on 15th April 2025
+💡Renames files by appending the extension ".encrt"
+💡Read Me file titled as: R3ADM3.txt which is used by Conti Group previously
+💡Negotiation Portal is stylized with Whatsapp Theme
+💡The person had used the title "Manager" to interact with the victims
+💡The negotiation portal is possibly hosted with Slack
+💡DLS hosted with Apache/2.4.63 (Win64) PHP/8.4.5
+📌Encrypt Data: Salsa20 or ChaCha
+📌Encode Data: XOR, Base64
+📌Data Hashing: murmur2
+💡Mutex: kjsidugiaadf99439
+💡Erased about 60+ Volume Shadow Copies
+
+URLs
+====
+http://apdk7hpbbquomgoxbhutegxco6btrz2ara3x2weqnx65tt45ba3sclyd.onion/
+http://gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion/
+http://2bw7r32r5eshwk2h7uekj3lwzorxds2jyhyzqyilphid3r27x5hsf4yd.onion/
+gunrabxbig445sjqa535uaymzerj6fp4nwc6ngc2xughf2pedjdhk4ad.onion
+apdk7hpbbquomgoxbhutegxco6btrz2ara3x2weqnx65tt45ba3sclyd.onion
+2bw7r32r5eshwk2h7uekj3lwzorxds2jyhyzqyilphid3r27x5hsf4yd.onion
+
+MD5
+===
+9a7c0adedc4c68760e49274700218507
