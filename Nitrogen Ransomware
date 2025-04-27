@@ -17,6 +17,8 @@ xqsdbtrtmufdyiqnkrkvosec4gqappf2egcptzqppjtqdevsoadakyqd.onion: Chat Panel
 
 File Servers
 ============
+6lrsxvqscxtznb4fhux5u3vbslbanxjzxzgtokjtfwaitxe4pfgfebad.onion
+4fklgnaegkdpfgaa3rxr3x4xujq4yi6dcuumxikrquzar2m3meiqxwad.onion
 zvdlza5tjyl33mbx4k7w7t25ve6e5c3ve3nmfwqlygl6ww6s4lmsu4ad.onion
 7o4vytbuk42nuucim5idwgsg3zqkocpllqpykmrdk6zvs75ne7iwgmad.onion
 nxarphaf35qp2uuosaq54m3a2s5kt4svpcv56mvz6r7xy6na7uo5ypyd.onion
@@ -42,17 +44,20 @@ TOX
 088B7708F2C1557B6023B1102FFC5C36C023FF4883CB073F26A33B73832C9268993ED58B817E
 C1DD64D0994AEAA297225CD94D1A6842819C74319A85350913AB9A82678C001EB09B71214D66
 46CA5EEC55A16767B7F8293DB18F753D1BF60C536747EFD115035DDA40948427E1DDFD107F03
+620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D
 
 
 NITROGEN INTEL
 ==============
 📌Nitrogen Ransomware became active in October 2024
 📌Appends the extension .nba after encryption
-📌Targeted: 🇺🇸, 🇨🇦
+📌Targeted: 🇺🇸 🇨🇦 🇮🇹 🇩🇪 🇫🇷 🇵🇹
 📌Industries: Manufacturing, Construction, Retail, Banking, Hospitality, Service, Gaming
-📌Published 19 Victims (so far)
+📌Published 25 Victims (April 2025)
 💡Sample files are uploaded to MEGA and URLs are passed to client on their Chat Panel
 💡Standard Ransom Demand: €200.000
 💡Claims to perform DDoS Attack if not paid
 💡Dedicated Leak Onion Domains for each victim
 💡Upon the Code-Scan, there is a 39.4% code match with AwfulRobber Ransomware with 15.76% Code Match with Cactus Ransomware
+💡Just like Lockbit, they themself call "NitrogenSupp" on Twitter
+
