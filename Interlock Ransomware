@@ -1,7 +1,7 @@
 🔎INTERLOCK INTEL
 =================
 📌Targets both Windows and Linux Environments
-📌Appends the encrypted extension: .1nterlock
+📌Appends the encrypted extension: 1nterlock, !NT3RLOCK and interlock
 📌The DLS of Interlock Group is user friendly as Size of the Leak, Number of Files/Folders are present in each leak's section
 📌This Group is capable to infiltrate and host large files on their Data Server ranging from 1.3GB to 710GB
 📌Each Victim's data are hosted in separate TOR Domains
@@ -10,13 +10,18 @@
 📌The group targets all sectors including Healthcare
 📌Interlock uses Cloudflare services to conceal their identity
 📌Domains Associated with Libyan Spider Network
+📌Asks clients to upload encrypted files to Anon Hosting Service called "anonymous files" on TOR: http://kqdrhdqaqeqc3txz7uekmesz3ny6rut477657gf2y5tnwkya7nv65pid.onion/
+
 
 
 MD5
 ====
 e11d147dad6e47a1cecb1f2755f95a55
-23c218d4009918c9b93f22e09e1d3671
 f7f679420671b7e18677831d4d276277
 f76d907ca3817a8b2967790315265469
 6c3b2558fc8cfcb2751437b6e5cdeb6f
 6d034dca42ffea354a20cd15d3f2ffd5
+faf9a658f4f9b424be3dab262a8af81c
+3104efb23ea174ac5eda9f5fd0e8c077
+f73005682c1d90f4b3269483b687e891
+33d8eabbf428fef8c5cd50b440ee3d07
