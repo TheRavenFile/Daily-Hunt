@@ -6,6 +6,9 @@ INTEL🔍
 📌Victims: 🇦🇷(2),🇫🇷 🇪🇸 🇮🇳 🇧🇷(2),🇦🇺 🇺🇸(2),🇱🇺 🇻🇳 🇩🇪 🇨🇳
 📌Their DLS is hosted with nginx/1.26.3
 📌Negotiation Site is hosted with nginx/1.27.5
+📌Path is set as: C:\Users\root\Desktop\Trojan\locker\target\x86_64-pc-windows-msvc\release\deps\crypt.pdb
+📌Babuk Ransomware also spotted to be used the same path previously
+
 
 Onion Domains
 =============
