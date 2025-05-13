@@ -8,6 +8,7 @@ INTEL🔍
 📌Negotiation Site is hosted with nginx/1.27.5
 📌Path is set as: C:\Users\root\Desktop\Trojan\locker\target\x86_64-pc-windows-msvc\release\deps\crypt.pdb
 📌Babuk Ransomware also spotted to be used the same path previously
+📌Found samples are compiled with Rust and only 1 sample was compiled with both Rust and Borland Delphi
 
 
 Onion Domains
