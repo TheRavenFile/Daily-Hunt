@@ -8,6 +8,8 @@ MD5
 a9297a8acbee74ba0169333ee38be2ef
 6d8f70bda63f1ced222715dbf92a025a 
 31df49092ddf396610481e390f663671
+f65a194814d4e0b8fdcf74f523e06ddf 
+
 
 
 
@@ -42,6 +44,7 @@ sqnnhgqr4iiwnkaih6vspyxmebz2vvjv3uybmjdynw6sne5plilunhyd.onion
 67hvtslok5a4cwjxfmidbgbunsvckypf2dwkpxg3y2sabar5b4jidmyd.onion
 hzyp7n436ecwo73xvrgnf5wmbjewszwut4h6vz4fu6f2oqd5zfcd7sad.onion
 6a5ib4udgwlkyl3zzeyenedcb7d33j2vq7egpqykr5457uiskeu6zjad.onion
+h4x3ic7ojxau5nxb2sr37spsgfkxywrs3gxls3aakqw6jkki7nlzwwqd.onion
 
 TOX
 ===
@@ -49,6 +52,8 @@ TOX
 C1DD64D0994AEAA297225CD94D1A6842819C74319A85350913AB9A82678C001EB09B71214D66
 46CA5EEC55A16767B7F8293DB18F753D1BF60C536747EFD115035DDA40948427E1DDFD107F03
 620C7A54EC212FB482A684BA74381C3623CCE4D0E27FAE348688F65E0F0F6B6A149790D1AE7D
+56DC0210518A3813A1697B35429AA4A6889E5F8010B4284095493F11A87C230776AEE20C5B5E
+
 
 
 NITROGEN INTEL
@@ -65,4 +70,5 @@ NITROGEN INTEL
 💡Upon the Code-Scan, there is a 39.4% code match with AwfulRobber Ransomware with 15.76% Code Match with Cactus Ransomware
 💡Just like Lockbit, they themself call "NitrogenSupp" on Twitter
 💡The new sample observed in late May 2025; is found that the creation time has been tampered to 19th June 1992; which is a Modus Operandi of VanHelsing Ransomware Group and J Ransomware Group
+💡Found first Linux file on 27th May 2025
 
