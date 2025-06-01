@@ -1,6 +1,6 @@
 If you are battling new Akira Ransomware, here are some facts:-
 
-💡Found 16 new samples of Akira Ransomware, which was created on 21st August, 2024
+💡Found 25 new samples of Akira Ransomware, which was created on 21st August, 2024
 💡All these samples began to appear in late September
 💡All these files are sized at 1.02 MB
 💡Mutexes: _SHuassist.mtx, C20CD437-BA6D-4ebb-B190-70B43DE3B0F3
@@ -115,6 +115,11 @@ d23c85d858eb9c90a5de9901c2db75c7
 9f43ea23f078264bdbc2b8fbd46ba6d4
 1bd031cd287202a00644f92084b21ee1
 65960a16c117030401992050ce836dfb
+4aecef9ddc8d07b82a6902b27f051f34
+e57340a208ac9d95a1f015a5d6d98b94
+1846d5e033ab5fb00573300dc8abb992
+b0b9a31de4dfd11bf267dd781b47230a
+96fbb98b1f722ae5f49ab63da0f74cf2
 
 
 Mutexes
