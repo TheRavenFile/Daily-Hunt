@@ -1,0 +1,32 @@
+💡KAWA4096 INTEL
+=================
+📌A new Ransomware Group emerged with Akira Themed DLS Site found
+📌No dedicated Victim Panel for contact
+📌Only 4GB data is leaked, but claimed as 53GB of a US Media Company on their DLS
+📌Victim Names are masked, which is a similar approach adopted by RA World Group earlier
+📌5 Victims are listed, 1 is from Germany 🇩🇪 and rest are from the 🇺🇸
+📌File Listing saved in same DLS, however data leak is stored in another TOR Domain Server
+📌Both TOR Domains are Vanity Domains as the Domain Name starts with "kawasa"
+📌Camellia Encryption in Kawa Sample is not widely seen, previously seen on the Linux Variant of Akira Ransomware
+
+DLS: kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion
+File Server: kawasax2yghpkcxx5d5fegnjoucwxnjpxcxpfh2vjfx7drj66pnwl3ad.onion
+
+MD5
+c3ce46d40b2893e30bf00fce72c2e1fa
+
+Technical Details
+=================
+📌Ransom Note: Restore-My-file-Kavva.txt
+📌Mutex: SAY_HI_2025
+📌Encrypt Data using: Curve25519, RC4 PRGA, chaskey, blowfish, Salsa20 or ChaCha, Camellia
+📌Encode Data using: XOR, Base64, ADD XOR SUB operations
+📌Encrypt or Decrypt via WinCrypt
+📌Uses QuickLZ for Data Decompression
+📌Hash data using: murmur3, SHA224
+📌Create new key via CryptAcquireContext
+📌Authenticate HMAC
+📌Generate random numbers via WinAPI
+
+Email: kawa4096@onionmail.org
+TOX: 6A340207246B47E37F6D094D2236E5C6242B6E4461EEF8021FED2C9855240C3E11AEE886FAAF
