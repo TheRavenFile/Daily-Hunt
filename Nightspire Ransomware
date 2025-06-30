@@ -1,0 +1,47 @@
+💡NIGHTSPIRE INTEL
+==================
+📌Initially found in March 2025
+📌Infected about 66 Victims in short span; which is very active
+📌As of now, 34 Countries were targeted excluding CIS and China🇨🇳
+📌Like other Ransomware, 🇺🇸 US tops the Victim List
+📌Taiwan🇹🇼, HongKong🇭🇰, Egypt🇪🇬, Spain🇪🇸 and Turkey🇹🇷 are also targeted with multiple infections
+📌There are 2 DLS found for the group: 1 is a Vanity TOR domain and the other mirror is non-vanity domain
+📌Vanity Domain is found to be using PHP/8.2.12 
+📌Non-Vanity TOR Domain is hosted with nginx
+📌As they have been targeted on a DDoS attack; the group is equipped with Anti-DDoS protection on their DLS
+📌They are guarded by Cloudflare Service
+📌A sample of Victim's data is displayed in their DLS and also listed them for Sale to Interested Parties
+📌The group also uses MEGA to store the victim breach
+📌Nightspire can be contacted via various medium including: Telegram, Session, TOX, Email
+📌Exploited CVE-2024-55591 (as per S-RM Report)
+📌Affiliates of Nightspire found to be worked for Rbfs Ransomware previously as per S-RM Report
+
+Sample Analysis
+===============
+📌All files are encrypted and adds the extension ".nspire"
+📌Compiled using Go
+📌Data Encrypted using: AES via x86 extensions, RC4 PRGA, Salsa20 or ChaCha
+📌Data Encode using: Base64, XOR
+📌Hashed Message Authentication Code
+📌Data Hash using: murmur3, FNV
+📌On Code Analysis, it is found that the samples of NightSpire has strong co-relation with Snatch Ransomware
+
+IOC
+===
+IP: 14.139.185.60
+Host Names Used: WINDOWS-DTX-8GB, XDRAGON-SERVER1
+
+MD5
+===
+e2d7d65a347b3638f81939192294eb13
+2bf543faf679a374af5fc4848eea5a98
+2e07a4de9e6ba84728fbdf27384ea0b9
+cc1da5f900c8d38f4d56006549e6734c
+82afcebc49f49b758de83b3275c91137
+
+NIGHTSPIRE CONTACT
+==================
+Email: nightspireteam.receiver@onionmail.org
+Session ID: 057d49830799b1fb3f73d7c6111f67a82322efedd8a04ff08011a38ade05459a02
+TOX:3B61CFD6E12D789A439816E1DE08CFDA58D76EB0B26585AA34CDA617C41D5943CDD15DB0B7E6
+Telegram: nightspireteam2025
