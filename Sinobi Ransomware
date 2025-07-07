@@ -1,10 +1,39 @@
+💡INTEL
+=======
+📌Sinobi is the new addition to the existing TOR infrastructure of Lynx and INC Ransomware Groups
+📌Targeted a single US company with Windows Executable
+📌Encrypted files are appeneded with extension: .SINOBI
+📌Ransom Note is titled as: README.txt
+📌Clear Web Site is registered on 22nd June 2025
+
+🔬Sample Analysis
+=================
+📌Code base having a match with 4 Ransomware Groups: Lynx, PureCrypter, INC and Babuk
+📌Data Encode: XOR
+📌Data Encryption using: Curve25519, AES
+📌Generate random numbers via WinAPI
+📌Data Decode using Base64 via WinAPI
+📌Create new key via CryptAcquireContext
+
+Site: chat.sinobi.us.org
+IP: 194.87.145.118
+Location: Russia
+ASN: AS48347
+
 MD5
 ===
 08759d9ea2712d693891c870bbebbde3
 
+💡C2 SERVERS
+============
+40.69.42.241
+20.109.210.53
+52.185.211.133
+23.221.240.64
+23.33.192.6
+
 TOR DOMAINS
 ===========
-http://chat.sinobi.us.org/login
 http://sinobi7yuoppj76qnkwiobwfc2qve2xkv2ckvzyyjblwd7ucpptl62ad.onion/login
 http://sinobi57mfegeov2naiufkidlkpze263jtbldokimfjqmk2mye6s4yqd.onion/login
 http://sinobibdvzohujkliofkxiz3ueyedfh6bed2lzjz2z6pafw5jeoptsid.onion/login
@@ -33,3 +62,4 @@ sinobi7l3wet3uqn4cagjiessuomv75aw3bvgah4jpj43od7xndb7kad.onion
 sinobi7sukclb3ygtorysbtrodgdbnrmgbhov45rwzipubbzhiu5jvqd.onion
 sinobi23i75c3znmqqxxyuzqvhxnjsar7actgvc4nqeuhgcn5yvz3zqd.onion
 sinobia6mw6ht2wcdjphessyzpy7ph2y4dyqbd74bgobgju4ybytmkqd.onion
+http://chat.sinobi.us.org/login
