@@ -1,0 +1,96 @@
+💡INTEL
+=======
+Initially spotted in November 2020
+Coded in C++
+Compiled in Visual Studio C++ environment
+Suspected to be Fox Kitten APT from Iran behind this ransomware to target Israel and US
+Uses .pay2key extention to files after encryption
+Read Me files are titled as: HowToRestoreFiles.txt
+Uses Cobalt Strike
+Pay2Key is targeting Israel 🇮🇱 and US 🇺🇸
+"Kharpedar" was the password used by the attacker
+Most of the observed samples are created on 31st December 2012, which could be tampered
+Found this name on Company Signed: Oleg N. Scherbakov
+Uses AWS EC2 for server support
+Recently, found to be using I2P network instead of TOR Network
+Exploited following CVEs
+• CVE-2019-11510 Pulse Secure
+• CVE-2018-13379 Fortinet FortiOS
+• CVE-2018-1579 Palo Alto Networks VPN
+• CVE-2019-19781 Citrix NetScaler
+• CVE-2020-5902 BIG-IP (F5 Networks)
+
+
+MUTEX
+=====
+BooYYoYnYoooY
+BooYYoYnYoooY0Mutex0
+BooYYoYnYoooY0Mutex1
+BooYYoYnYoooY1Mutex0
+BooYYoYnYoooY1Mutex1
+EVERYTHING_MUTEX
+cversions.3.m
+
+IOCs
+====
+I2P: pay2keys7rgdzrhgzxyd7egpxc2pusdrkofmqfnwclts2rnjsrva.b32.i2p
+ROE: pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion
+Clear Web: pay2key.com
+Subdomain: client.pay2key.com
+Email: pay2key@tuta.io
+Email: pay2key@pm.me
+
+51.210.104.220
+3.237.39.72
+54.174.216.48
+
+MD5
+===
+ 3be83f3c8ea052a1e6f6d9d1bb9641c3 
+ 4f4fb78c2679f5f3a35e8794adacf0cf 
+ 72b503d5fea212185439f513976a2c00 
+ 6b6334f5eca53435d4bc9274a5b3ae85 
+ d338b4fc54434c81385c766bdda631af 
+ 33e1524a1c910da0ee5cff3d7aa46bd0 
+ 93c3e48d9bd77aebcd39cb5d34998cd5 
+ 08b308d9a9989b27bc736ba6c9d7eb5e 
+ 61afc0da17f49ac18f673a42be459bb1 
+ ea23b4d7931e3732bbc87ea5fd12634c 
+ 4a7a9c3904f21d0e58475981abe3ac8d 
+ ec81d1b3d7b33c2a4e5c7d83244852c0 
+ cb47b12bcf3813a75fe86d80b79613b7 
+ 6506697be2194a3ea76350eacf4e380c 
+ 8dd9630941e3a4659d1cc278a16eeafd 
+ d0b55028852e52968ba11c2b93a8cb0a 
+ b91da16c166e62809beff37b41f24a99 
+ 1fa416022331b011eff38ffd4ac388a1 
+ 0119effb55acd0c1628e33be938d8658 
+ 1533292f7968aaa33a61d3e3b2027a94 
+ 1132d496d570fc9249ba33f7b36c2df8 
+ 0eee8e65ba3a3a53807f4e0ac130bff9 
+ 4809fc2bc429444b06ae44420a13434c 
+ 60770a887f5384ca4b157ed57ce7ba55 
+ f065d8eee8f4343540177c38dabafd0a 
+3c87628f880d5126fa961b5938a43388 
+f3076add8669d1c33cd78b6879e694de 
+4e615861b6d7d778fdc1ac2a61148fe9 
+7db5dd6f2231da6eb07d907312b1abe9 
+f33f63ad83374e4d819a3b90fd0e3d8a 
+aab4ca43d918c78a60e0c5be974ed95c 
+504073efb78547b6411119b67e3f72ef 
+0119effb55acd01c1628e33be938858
+fb6ae13a4c301e9dda02edd6505a80e6 
+d6c4ed96a0ecb2577ef597f8a21d407f 
+fb71f53ea142a97008a5e8516addc353 
+03d102a250ee2d369c93a0b12d219933 
+ad936ffd35c456ba486f0fbe2dd8b834 
+ffa27652aeda31cd32de3965751d2d0a 
+0ccc91d1976a42696b95d2390d084d45 
+378a277986986979d98d287f41d1dde7 
+f193f0f8e4fcc7d498c66c587035f62a 
+e166bce2edf08e266e0b6919b25d1eba 
+29ea25cc2f0c09a2d4f702af86b82f69 
+fcca49d2df5d714b578d29f915308ae9 
+51ebc7806ea722c1a3a1953bc0fbd225 
+af8b2eb23d9860e41e83292e55e64864 
+cc796f1dc54a2e1f857115c85c4ada46 
