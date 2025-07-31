@@ -6,7 +6,7 @@ INTEL
 💡Might be the spin off of LockBit Ransomware Builder, as some of the samples are labelled as Black LockBit
 📌LockBit builder was leaked in Sept. 2022
 💡Memory Pattern Domains detected with Popular Cities with respective country TLDs such as: astrakhan[.]ru, kiev[.]ua
-
+💡With the launch of new DLS, the group had listed Zoho Email Service for communication
 
 Quick Sample Analysis
 =====================
@@ -114,3 +114,17 @@ IP Addresses
 20.103.156.88 
 204.79.197.237 
 92.123.180.184 
+
+EMAILS
+======
+recovery24.email@onionmail.com
+blackpool@zohomail.eu
+ambulafixdata@zohomail.eu
+ambulafixdata@onionmail.org
+br.fixdata24@proton.me
+br.fixdata24@onionmail.com
+helpdata24@zohomail.eu
+helpdata24@onionmail.org
+
+TOX: 92E5D1A8ECFC69E7967E7A9DC1C9A735CD8DCE965D12EF01F19966C7101EAF071B4CDEA310E9
+Jabber: mnstr@exploit.im
