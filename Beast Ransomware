@@ -11,7 +11,7 @@ INTEL
 Quick Sample Analysis
 =====================
 📌Adds the extension: .BEAST
-📌Mutex: BEAST HERE?
+📌Mutex: BEAST HERE?, BEWAREBEAST666
 📌srvsvc pipe used for data transfer by Beast, which is previously used by notable ransomwares like BlackByte, BlackMatter, Lockbit
 📌The Server service allows a remote machine to create, configure, query, and delete shares through RPC over a named pipe (\\pipe\srvsvc)
 
