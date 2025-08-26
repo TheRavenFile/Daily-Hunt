@@ -16,6 +16,9 @@ INTEL🔍
 💡The leaks on surface web are powered using Caddy Server
 📌All the leaks are also made available via Torrent (P2P File Share)
 💡Windows Host Name used: WIN-AQ7G0H1TG6O running on Windows 10, Windows Server 2016
+📌Data Encryption: Curve25519, RC4 PRGA
+📌Data Encoding: XOR, Base64
+📌Hashing: Murmur3
  
 
 
