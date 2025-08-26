@@ -1,23 +1,38 @@
 INTEL🔍
 =======
 📌Targets both Windows and Linux
-📌Most of the executables are sized at 1.25 MB like Akira
-📌Currently there are about 14 Victims
+💡Most of the executables are sized at 1.25 MB like Akira
+📌As per their DLS, they are active since February 2025
+💡No victims are found to be Cross-Claimed by other groups
+📌Currently there are about 31 Victims (as of August 2025)
 📌Victims: 🇦🇷(2),🇫🇷 🇪🇸 🇮🇳 🇧🇷(2),🇦🇺 🇺🇸(2),🇱🇺 🇻🇳 🇩🇪 🇨🇳
 📌Their DLS is hosted with nginx/1.26.3
 📌Negotiation Site is hosted with nginx/1.27.5
-📌Path is set as: C:\Users\root\Desktop\Trojan\locker\target\x86_64-pc-windows-msvc\release\deps\crypt.pdb
-📌Babuk Ransomware also spotted to be used the same path previously
-📌Found samples are compiled with Rust and only 1 sample was compiled with both Rust and Borland Delphi
-📌On 4th July 2025, the group had started a Surface Site titled "JTOR" to host the victim leaks and also added a new TOX ID for communication
+💡Path is set as: C:\Users\root\Desktop\Trojan\locker\target\x86_64-pc-windows-msvc\release\deps\crypt.pdb
+💡Babuk Ransomware also spotted to be used the same path previously
+💡Observed samples are compiled in Rust and only 1 sample was compiled with both Rust and Borland Delphi
+💡Most of the samples are compiled with Rust, using Clap Parser
+💡On 4th July 2025, the group had started a Surface Site titled "JTOR" to host the victim leaks and also added a new TOX ID for communication
+📌All the leaks are also made available via Torrent (P2P File Share)
+💡Windows Host Name used: WIN-AQ7G0H1TG6O
 
 
-Surface Domain: https://share.jtor.xyz/
+URL
+===
+https://share.jtor.xyz/
+jtor.xyz
 
 Onion Domains
 =============
 twniiyed6mydtbe64i5mdl56nihl7atfaqtpww6gqyaiohgc75apzpad.onion
 w4d5aqmdxkcsc2xwcz7w7jo6wdmvmakgy3y6mfmdtzmyvxe77cjkfbad.onion
+
+IP ADDRESS
+==========
+80.85.141.8 🇳🇱
+185.80.234.130 🇳🇱
+2001:0:2851:782c:cf2:124a:afaa:72f7
+Host Name: WIN-AQ7G0H1TG6O
 
 TOX: 3F9AAB623435B4E141DC92D667DD7E366521654645A792FF942C2A143D07DF0269E626561A7F
 
