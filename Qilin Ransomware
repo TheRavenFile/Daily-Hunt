@@ -30,6 +30,15 @@ ASN: AS57678
 ftp://dataShare:nX4aJxu3rYUMiLjCMtuJYTKS@176.113.115.97
 ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@176.113.115.209
 
+MIGRATION UPDATE (JULY 2025)
+==============================
+185.196.10.52 🇬🇧
+ASN: AS42624 (Global-Data System IT Corporation)
+http://ftp://dataShare:2bTWYKNn7aK7Rqp9mnv3@185.196.10.19
+ftp://datashare:C}^SLA"5Vl?vX#R4tg^}
+hd3@185.196.10.52
+
+
 📌An FTP shift from Russian Server 🇷🇺 to Hong Kong Server 🇭🇰 observed in March 2024 by Qilin Ransomware Operators
 📌Though the IP has not yet been recorded any abuse; the ASN is highly malicious with the presence of Vidar Stealer, Lumma Stealer, AsyncRAT, SystemBC, Amadey etc
 📌Promotes Bearhost Bulletproof Servers
@@ -58,7 +67,12 @@ http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/
 176.113.115.97
 188.119.66.189
 
+HOST NAME
+=========
 WIN-LIVFRVQFMKO
+WIN-8OA3CCQAE4D
+
+TOX ID: 7C35408411AEEBD53CDBCEBAB167D7B22F1E66614E89DFCB62EE835416F60E1BCD6995152B68
 
 MD5
 ===
