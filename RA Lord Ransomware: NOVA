@@ -26,6 +26,7 @@
 💡In June 2025; the group had introduced 5 new TOR Domains
 💡Also introduced new Domain wit service called "NOVA CLOUD" to host compromised victim breach 
 💡I exposed their real IP of NOVA CLOUD
+💡After my exposure, they migrated to new domain and also dropped their Ransomware Icon from the page
 
 
 IOCs
@@ -54,6 +55,9 @@ ms5fasbpbfpbxmgtrhcspvg5ajmb2tpxdcg7x2wdd6equemuivqi5syd.onion
 Running on: Apache/2.4.64 (Debian)
 URL: http://144.172.95.78/
 IP: 144.172.95.78
+
+pifk3xu3vad6cuxsjll4qjomyaaaoyvnyqppro75pazadzctrrvpdnyd.onion
+Running on: Apache/2.4.65 (Debian)
 
 Affiliate
 =========
