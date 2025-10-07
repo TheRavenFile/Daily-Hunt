@@ -7,6 +7,7 @@
 📌DLS hosted with NGINX
 📌Each victim was having a dedicated TOR Domain for their leaks, but changed to single server later
 📌Old leaks are no more available
+📌Using FastPanel Access for hosting, which indirectly means using a Linux Server by the group
 
 DLS: hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion
 
@@ -24,6 +25,7 @@ C2
 144.172.103.42
 107.170.35.225
 45.61.134.36
+https://45.61.134.36:8888/authentication
 
 MD5
 ===
