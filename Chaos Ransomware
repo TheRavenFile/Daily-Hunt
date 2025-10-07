@@ -1,0 +1,32 @@
+💡INTEL
+=======
+📌Infected since March 2025 with 18 victims
+📌US tops the list
+📌Detected samples are matched to BlackSuit Ransomware
+📌Samples are sized at 32KB
+📌DLS hosted with NGINX
+📌Each victim was having a dedicated TOR Domain for their leaks, but changed to single server later
+📌Old leaks are no more available
+
+DLS: hptqq2o2qjva7lcaaq67w36jihzivkaitkexorauw7b2yul2z6zozpqd.onion
+
+FILE SERVERS
+============
+qf4p6ul3g7wyvynkxawlu7ganvgbk44myl35jqfa3aroass33dbvmdyd.onion 
+s2godak5cr4bflmcmiqjgow2b7clgs7szgf4h3ofqn7lyh6mdpvei5yd.onion
+bna6mhximutqknymisjbp277swmhf7gocambh6y62qmdtup34unjs7yd.onion
+httj32vkww42kq3kjbsbuuv2izalkvswuyf5hepdodakrjq42ploe6ad.onion
+2yxf2ald2c67twt4663piypum2fu6yt4su453naxsdiilpd4m7pgu6qd.onion
+k6wtpxwq72gpeil5hqofae7yhbtxphbkyoe2g7rwmpx5sadc4sgsfvid.onion
+
+C2
+===
+144.172.103.42
+107.170.35.225
+45.61.134.36
+
+MD5
+===
+160f60dc3fc9920cfc3847de4de2ef09
+9113f4b245da32c75d61b467ee89e0b7
+87fd821b67a1f329548f222d81a55be7
