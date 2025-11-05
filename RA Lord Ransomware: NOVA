@@ -29,7 +29,8 @@
 💡After my exposure, they migrated to new domain and also dropped their Ransomware Icon from the page
 💡In October 2025, found the leaks of a victim to be hosted on Go File Platform instead of their dedicated File Server
 💡Victims are advised to contact them on unique TOR Domains found on the Ransom Note, which are powered by "Secure Chat" service
-
+💡Data Leaks <100GB are hosted with Mega Cloud, and large leaks are hosted with their dedicated Onion File Servers
+💡The leaks hosted with Mega are auto-kicked as they violate privacy regulations
 
 
 IOCs
