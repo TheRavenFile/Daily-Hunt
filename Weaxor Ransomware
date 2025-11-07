@@ -5,7 +5,8 @@ INTEL
 💡The group also uses Lumma Stealer during their infection cycle
 📌AS37963: Commonly (ab)used for CobaltStrike Activities
 💡Earliest sample is traced in October 2024
-💡Deliverable malicious executables are mostly named as Microsoft Products or Processes like OneDrive.exe, svchost2.exe etc.
+💡Deliverable malicious executables are mostly named as Microsoft Products or Processes like OneDrive.exe, svchost2.exe etc
+💡Uses cracked version of Cobalt Strike for attacks
 
 
 
@@ -40,6 +41,9 @@ IP ADDRESS
 
 MD5
 ===
+
+61f0b10f27eec2f3fda35a09c986ef7b
+c8e733493ebf934631b8f40ac02cb300
 d8fbe7bd2d399131611c9a57541e4444
 9810bc6f3c8a0cfebf10aa1ac18a94fe
 e0d83d943cb03dc982a9cceae3324575
