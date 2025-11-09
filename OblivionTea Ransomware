@@ -1,0 +1,22 @@
+💡INTEL
+=======
+📌2 Samples are identified with large file size as 70MB
+📌Targeting Windows Environment
+📌Both files are disguised as Myfile.dll
+📌Used Visual Studio to code the samples
+📌Generated both samples at same time, back in April 2025
+
+
+MD5
+===
+36ccdc537914fc9375ebac92c660a8d4
+f711847abff31937cebeb23c5d8cdc58
+
+IP
+==
+179.43.139.126
+
+URLs
+=====
+http://179.43.139.126:5000/api/upload
+http://179.43.139.126:5000/api/report 
