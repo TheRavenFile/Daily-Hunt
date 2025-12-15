@@ -31,13 +31,14 @@
 💡Victims are advised to contact them on unique TOR Domains found on the Ransom Note, which are powered by "Secure Chat" service
 💡Data Leaks <100GB are hosted with Mega Cloud, and large leaks are hosted with their dedicated Onion File Servers
 💡The leaks hosted with Mega are auto-kicked as they violate privacy regulations
+📌Some samples appends "ploja_NV" after encryption
 
 
 IOCs
 ====
 
-MD5: 
-
+MD5
+ef846baabc14fe461cff4c4a0fd5056f
 be15f62d14d1cbe2aecce8396f4c6289
 4566f5ba6d1a1db0dd7794ea8d791b3f
 
