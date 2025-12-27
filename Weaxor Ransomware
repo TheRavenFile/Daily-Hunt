@@ -7,9 +7,7 @@ INTEL
 💡Earliest sample is traced in October 2024
 💡Deliverable malicious executables are mostly named as Microsoft Products or Processes like OneDrive.exe, svchost2.exe etc
 💡Uses cracked version of Cobalt Strike for attacks
-
-
-
+💡Added new IP to pull the powershell file for infection 
 
 PAYLOAD ANALYSIS
 ================
@@ -37,14 +35,16 @@ IP ADDRESS
 35.186.131.209
 156.234.94.53
 156.234.94.60
+23.235.182.105
 
 156.234.94.52:11844
 156.234.94.53:7425
 156.234.94.60:7425
+23.235.182.105:33901
 
 MD5
 ===
-
+b51568fb3a22f9816fe412dc01e3ae34
 61f0b10f27eec2f3fda35a09c986ef7b
 c8e733493ebf934631b8f40ac02cb300
 d8fbe7bd2d399131611c9a57541e4444
