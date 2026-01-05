@@ -2,22 +2,29 @@ INTEL🔍
 =======
 📌Global Ransomware spotted in 4th June 2025
 📌Their complete name is: Global BlackLock Ransomware Group; which is not featured on their DLS
-📌Infected about 9 victims
+📌Infected about 32 victims
 📌Also targets sensitive sectors such as Hospitals
 📌Global Ransomware's sample compiled in Go
+💡In July 2025, new samples spotted which is coded in VisualC++
+💡Their DLS is renamed as "AWARE" with no victims listed
+💡Their Ransom Note changed slightly in newly spotted samples
 
-DLS: vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion
+
+DLS
+vg6xwkmfyirv3l6qtqus7jykcuvgx6imegb73hqny2avxccnmqt5m2id.onion
+
 
 Chat
 ====
 gdbkvfe6g3whrzkdlbytksygk45zwgmnzh5i2xmqyo3mrpipysjagqyd.onion
 panelqbinglxczi2gqkwderfvgq6bcv5cbjwxrksjtvr5xv7ozh5wqad.onion
+ui2uleaiisccbtcooyi34cy5u3plpd5wraiza6wtibolshuf7tnzziid.onion
 
 
 MD5
 ===
+77cb60d5a0293b34dcc98da4887e4028
+4abd2ecd7e3b12219b4644bcfe614561
 4e01e0eca4d82cbadc70b754a4f9fd3c
 c5a8d4c07e1dca5e9cfbbaadfc402063
 ca979fad68362cd3d9ad24424d5ac3fd
-
-
