@@ -4,7 +4,7 @@ INTEL🔍
 📌Their complete name is: Global BlackLock Ransomware Group; which is not featured on their DLS
 📌Infected about 32 victims
 📌Also targets sensitive sectors such as Hospitals
-📌Global Ransomware's sample compiled in Go
+📌Global Ransomware's sample compiled in VisualC++ and Go
 💡In July 2025, new samples spotted which is coded in VisualC++
 💡Their DLS is renamed as "AWARE" with no victims listed
 💡Their Ransom Note changed slightly in newly spotted samples
