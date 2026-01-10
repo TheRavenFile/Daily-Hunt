@@ -8,6 +8,7 @@
 📌There are 2 DLS found for the group: 1 is a Vanity TOR domain and the other mirror is non-vanity domain
 📌Vanity Domain is found to be using PHP/8.2.12 
 📌Non-Vanity TOR Domain is hosted with nginx
+📌.nspire is used to append to encrypte files
 📌As they have been targeted on a DDoS attack; the group is equipped with Anti-DDoS protection on their DLS
 📌They are guarded by Cloudflare Service
 📌A sample of Victim's data is displayed in their DLS and also listed them for Sale to Interested Parties
@@ -39,6 +40,7 @@ nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion
 
 MD5
 ===
+94dd3315fca4c31ef61b7865c3b8983f
 d0a8b47c099440abaec8abfd7c12ac93 
 e2d7d65a347b3638f81939192294eb13
 2bf543faf679a374af5fc4848eea5a98
