@@ -5,11 +5,20 @@ TOX: AE55FC0EB1C25A5B081650108F9081E236DECE1CE08D2E185A6F15B9FB48E700210BED37464
 INTEL
 =====
 📌Initially found in September 2025
+📌Encrypted files are appended with .obscura
+📌Targets Windows Environment
+📌Executables are compiled in Go
 📌Infected about 9 Victims, US tops the list
 📌Most Data leaks are not available
 📌Previously, the Ransomware that used I2P was Pay2Key from Iran 🇮🇷
 📌Torrents are in I2P Network which is rare
 📌Most Targeted: Healthcare
+📌Read Me File are titled as: readme-obscura.txt
+
+MD5
+===
+b356ece2d8150fd0e7e673ae37033554
+e8c19bf10d044fe448a60e3fa0f60d58
 
 SUSPECIOUS IPs
 ==============
@@ -25,3 +34,6 @@ LINK
 magnet:?xt=urn:btih:f674678eaf055f62a96d5204c1a9c34e43e68d7f&dn=RelationMedia&tr=http://tracker2.postman.i2p/announce.php
 magnet:?xt=urn:btih:c3cf6b6bc4d709b83148c0a234eb490f1b973e19&dn=Rulmaksan+Turkey&tr=http://tracker2.postman.i2p/announce.php
 
+TOX ID
+======
+7521730C07CF45D363A627F32B3102F3F7FA72F36C2C5F9EAB0C7FBA4668527F62A90EF333E6
