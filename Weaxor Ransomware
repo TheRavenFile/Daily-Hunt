@@ -8,6 +8,7 @@ INTEL
 💡Deliverable malicious executables are mostly named as Microsoft Products or Processes like OneDrive.exe, svchost2.exe etc
 💡Uses cracked version of Cobalt Strike for attacks
 💡Added new IP to pull the powershell file for infection 
+💡Using Mallox Server for 4 years : 193.143.1.139
 
 PAYLOAD ANALYSIS
 ================
@@ -23,6 +24,7 @@ PAYLOAD ANALYSIS
 📌bCFGCaution: May indicate beacon operates without safeguards
 📌KillDate set to 0, as beacon stays forever
 
+
 TOR DLS: weaxorpemwzoxg5cdvvfd77p3qczkxqii37ww4foo2n4jcft3mytbpyd.onion
 
 IP ADDRESS
@@ -36,6 +38,8 @@ IP ADDRESS
 156.234.94.53
 156.234.94.60
 23.235.182.105
+193.143.1.139
+
 
 156.234.94.52:11844
 156.234.94.53:7425
@@ -108,3 +112,30 @@ bc8f706130597467bd61db3b4e056036
 5a6af006c815a93ecd59ab0ed76efc5f
 e72035694559e5d1464d97713a868384
 68a6333d3775f2aed498fc71773a99d9
+d8fbe7bd2d399131611c9a57541e4444 
+9810bc6f3c8a0cfebf10aa1ac18a94fe 
+e0d83d943cb03dc982a9cceae3324575 
+9e80e5794cd8447e3bae73f8e43eb93a 
+91b64dea4d5b91b552af9af3e73b21e9 
+d66e63db75816f1612ee66e5ef80a1a1 
+0f85e1cc2090e3426eb24011c2bb4b98 
+79f3be41931e1e32559980fbe037862b 
+d52fa479098e9ca3d5f28191311f588c 
+4cadd3e503e79af2161d857f71e60d31 
+5ab6ef0270b38a93d1620c90965cb456 
+b51568fb3a22f9816fe412dc01e3ae34
+467360d71126e9ca886ee8929bf0fd36
+5474a41d142f72654c46c45cce1e602c
+a38cb0f56f5dd6bdae50079078813293 
+6fc4b4e2abf47a4484c7d59704f34c0b 
+d1f3e8aca0c9d86982c0b60400961a08 
+7d839393902da99828af8a4abd260254
+503c35c37d00d04ff2793c2b4bf5038f
+66a7b3b9d77c39719e83f4751f1a4bba
+5ab6ef0270b38a93d1620c90965cb456
+a3c0caca7cb6667a9feb37442da3d322
+7a254f2a75ddb5bb500c08dfc10b26f5
+ccd6399740f3fa55cd34a900ec5cf363
+91b64dea4d5b91b552af9af3e73b21e9
+83f9ae3c31db07746f0a3ea44a33dbb3
+f02dc56492666b2652f554013a163a56
