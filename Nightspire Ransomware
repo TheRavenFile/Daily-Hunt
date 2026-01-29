@@ -16,6 +16,8 @@
 📌Nightspire can be contacted via various medium including: Telegram, Session, TOX, Email
 📌Exploited CVE-2024-55591 (as per S-RM Report)
 📌Affiliates of Nightspire found to be worked for Rbfs Ransomware previously as per S-RM Report
+📌A new TOX ID had been added for Affiliate Program in December 2025 to Early 2026
+📌In January 2026, I found the IP behind NightSpire DLS: 144.172.106.251
 
 Sample Analysis
 ===============
@@ -29,8 +31,12 @@ Sample Analysis
 
 IOC
 ===
-IP: 14.139.185.60
+IP: 14.139.185.60 🇮🇳
 Host Names Used: WINDOWS-DTX-8GB, XDRAGON-SERVER1
+
+IP: 144.172.106.251 🇺🇸
+Organization: ROUTERHOSTING
+VPN Used: CLOUDZY, BUYVM
 
 TOR DOMAINS
 ===========
