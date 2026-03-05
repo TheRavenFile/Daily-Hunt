@@ -20,6 +20,7 @@
 📌In January 2026, I found the IP behind NightSpire DLS: 144.172.106.251
 📌The group started to showcase their succesfull Ransom Negotiation Chat with various clients by masking the identity, who already paid for Decryption Keys
 📌Analyzing the chat, it is found that the group is gaining access by exploiting vulnerabilities of unpatched services
+📌In the Data Leak Section, instead of Data Leaks, those are marked as "Selling" for various price range from $100 to $5000
 
 Sample Analysis
 ===============
