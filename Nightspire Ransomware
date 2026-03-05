@@ -18,6 +18,8 @@
 📌Affiliates of Nightspire found to be worked for Rbfs Ransomware previously as per S-RM Report
 📌A new TOX ID had been added for Affiliate Program in December 2025 to Early 2026
 📌In January 2026, I found the IP behind NightSpire DLS: 144.172.106.251
+📌The group started to showcase their succesfull Ransom Negotiation Chat with various clients by masking the identity, who already paid for Decryption Keys
+📌Analyzing the chat, it is found that the group is gaining access by exploiting vulnerabilities of unpatched services
 
 Sample Analysis
 ===============
@@ -46,6 +48,7 @@ nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion
 nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion
 a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion
 nspire7lugml7ybqyjaaxtsgrs4qn3fcon3lrjbih6wamttvdm5ke4qd.onion
+nspirep7orjq73k2x2fwh2mxgh74vm2now6cdbnnxjk2f5wn34bmdxad.onion
 
 MD5
 ===
