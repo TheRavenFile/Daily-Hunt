@@ -32,7 +32,7 @@
 💡Data Leaks <100GB are hosted with Mega Cloud, and large leaks are hosted with their dedicated Onion File Servers
 💡The leaks hosted with Mega are auto-kicked as they violate privacy regulations
 📌Some samples appends "ploja_NV" after encryption
-
+💡In May 2026 (or prior), the group had added an AI Chat Support to the DLS Portal. But only a set of prepared questions are listed. This is another version of Summary in an AI form.
 
 IOCs
 ====
@@ -76,6 +76,8 @@ Running on: Apache/2.4.65 (Debian)
 
 rhhoh6nrrv25ks3adu3lgv3amkarj5xr2vrgau6bngeoa4dfusypaoqd.onion
 (Not active anymore)
+
+NOVA AI Chat: novaf2pxzvb7xzkunlctqfuifatnp6pnhctvrqakizqflzr3rvqbnqid.onion
 
 Affiliate
 =========
