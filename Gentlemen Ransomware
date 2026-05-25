@@ -1,4 +1,6 @@
 
+ARTICLE: https://theravenfile.com/2026/05/23/gentlemen-ransomware-leaks/
+
 INTEL
 =====
 The Gentlemen initially targeted Windows Environment, then began to target Linux in January 2026
@@ -8,6 +10,15 @@ DLS: tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion
 Server: Werkzeug/3.1.3 Python/3.11.2
 
 TOX ID: F8E24C7F5B12CD69C44C73F438F65E9BF560ADF35EBBDF92CF9A9B84079F8F04060FF98D098E
+
+IP Address
+===========
+194.87.31.69:36137
+178.130.46.120 🇷🇺
+193.228.128.2 🇷🇺
+192.42.116.104 🇳🇱
+89.185.80.134 🇺🇸
+92.39.211.142 🇷🇺
 
 MD5
 ===
@@ -51,3 +62,10 @@ fc75ed2159e0c8274076e46a37671cfb8d677af9f586224da1713df89490a958
 1eece1e1ba4b96e6c784729f0608ad2939cfb67bc4236dfababbe1d09268960c
 5dc607c8990841139768884b1b43e1403496d5a458788a1937be139594f01dca
 788ba200f776a188c248d6c2029f00b5d34be45d4444f7cb89ffe838c39b8b19
+
+Email Address
+=============
+elsignore@onionmail.org
+thegentlemen88@atomicmail.io
+
+
