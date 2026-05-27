@@ -4,7 +4,7 @@ NITROGEN INTEL
 📌Appends the extension .nba after encryption
 📌Targeted: 🇺🇸 🇨🇦 🇮🇹 🇩🇪 🇫🇷 🇵🇹
 📌Industries: Manufacturing, Construction, Retail, Banking, Hospitality, Service, Gaming
-📌Published 25 Victims (April 2025)
+📌Published 47 Victims (May 2026)
 💡Sample files are uploaded to MEGA and URLs are passed to client on their Chat Panel
 💡Standard Ransom Demand: €200.000
 💡Claims to perform DDoS Attack if not paid
@@ -13,6 +13,9 @@ NITROGEN INTEL
 💡Just like Lockbit, they themself call "NitrogenSupp" on Twitter
 💡The new sample observed in late May 2025; is found that the creation time has been tampered to 19th June 1992; which is a Modus Operandi of VanHelsing Ransomware Group and J Ransomware Group
 💡Found first Linux file on 27th May 2025
+💡In May 2026, they updated a message on their DLS "IMPORTANT: All links we provide in the READ_ME_TXT file are unique for each company. A general link to our TOX support is available on our blog. If you contact anyone through other links, you are responsible for the consequences."
+💡Observed low activity in late 2025 and early 2026
+
 
 MD5
 ===
