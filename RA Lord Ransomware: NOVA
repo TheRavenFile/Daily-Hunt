@@ -33,6 +33,11 @@
 💡The leaks hosted with Mega are auto-kicked as they violate privacy regulations
 📌Some samples appends "ploja_NV" after encryption
 💡In May 2026 (or prior), the group had added an AI Chat Support to the DLS Portal. But only a set of prepared questions are listed. This is another version of Summary in an AI form.
+📌Victim Count reached to 125
+💡Exposed 2 IPs associated with Nova Cloud Server
+📌AS23470 is notably used for Akira Ransomware 0-Day, Radar Ransomware, StegaBin - Malicious NPM package using Pastebin C2 North Korea
+📌AS46475 is notably used for CVE-2024-55956, Rimasuta Botnet, QAKBot
+💡Nova changed from RouterHosting to ReliableSite and LimeStone Networks to host their Cloud Server for Victim Leaks
 
 IOCs
 ====
@@ -66,6 +71,17 @@ leak7y2247fj7dbb35rpfyxuyaqtwbshiwxp6h35ttzlhrxmhvi4fead.onion
 
 FILE SERVER
 ===========
+
+📍IP: 104.243.35.237 🇺🇸
+ASN: AS23470
+Host: ReliableSite.Net LLC
+NOVA CLOUD
+
+📍IP: 208.115.220.30 🇺🇸
+ASN: AS46475
+Host: Limestone Networks, Inc
+NOVA CLOUD
+
 ms5fasbpbfpbxmgtrhcspvg5ajmb2tpxdcg7x2wdd6equemuivqi5syd.onion
 Running on: Apache/2.4.64 (Debian)
 URL: http://144.172.95.78/
