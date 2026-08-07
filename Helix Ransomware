@@ -1,0 +1,31 @@
+🚨INTEL
+========
+💡Advertises their service on underground forums
+💡Unlike other groups, Helix does not target Government Entities
+💡Targets US and Canada (as of now)
+💡Earliest victim leaks were hosted with a dedicated Onion Domain
+💡Later, rest of the victim's leak are shared via GoFile Platform
+💡Structured Leak followed (from Sample to Critical): T1 Housekeeping -> T2 Correspondence -> T3 Diligence -> T4 Safekeeping
+💡Each files are protected using randomly generated 24-character passwords
+💡The Server Response passed through Waitress, a pure-Python WSGI HTTP server
+💡Earliest leak traced to 26th July 2026, though the operations might have commenced much earlier
+💡Unique TOX IDs are generated for each victim, which is obtained from victim's ransom note
+
+
+🧅DLS: helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion
+🧅FS: helix2kvkqjzrkh3ospyukij7uemxwvbdmqberjmrudjmqy4hspwzzqd.onion
+🗄️Server: helix
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+mDMEalfxCRYJKwYBBAHaRw8BAQdAkQU88BrSUxCKytiFyQPZtafmUzKp2Inf9MI9
+BJG4wHK0BUhlbGl4iLUEExYKAF0WIQTRDW4AqkpkvAPoO9P+kq6Sd3DgIQUCalfx
+CRsUgAAAAAAEAA5tYW51MiwyLjUrMS4xMiwyLDECGwMFCQWkqXcFCwkIBwICIgIG
+FQoJCAsCBBYCAwECHgcCF4AACgkQ/pKukndw4CHt/gD/Rh5JBoxFUaVUsdRHPCjG
+LAHlZMfvY9HMAXkQHXS/ZYIBAOtcL8BDSMbsaF2g80RI2kkYwhsy5hl7OSnBb5qN
+lVgMuDgEalfxCRIKKwYBBAGXVQEFAQEHQGvV38s68tdBwVd8QGGT6F6iN4Ow1uhU
+1sZdQO4UUekYAwEIB4iaBBgWCgBCFiEE0Q1uAKpKZLwD6DvT/pKukndw4CEFAmpX
+8QkbFIAAAAAABAAObWFudTIsMi41KzEuMTIsMiwxAhsMBQkFpKl3AAoJEP6SrpJ3
+cOAhwO8BAI1sZwDOfUDmpiW3vN2f8AJBlVp9+H0RWe49FbXvEhfQAQCEly9hKO9R
+SUm42JpJy77PMt3o/AUPs2w2z+nGSCAfAQ==
+=ZBDz
+-----END PGP PUBLIC KEY BLOCK-----
