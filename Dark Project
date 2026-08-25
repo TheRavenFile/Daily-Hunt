@@ -1,0 +1,39 @@
+INTEL
+=====
+📌This group initially appeared in June 2026
+📌Found to be using Vanity TOR Domain for their DLS
+📌Like other groups, the US tops the victim list
+📌The group also uses another pressure tactic by listing "The Data was sold" on victim's leak page
+💡Earliest Data Upload was on 29th June 2026
+💡All the File Servers including DLS are running nginx/1.24.0 (Ubuntu)
+💡Few victims were found to be cross-claimed with previous groups like Akira, Anubis etc
+
+DLS: darkprn3d3udnhpuxknsrhft3376lrz5tenhgkrxge5hxqe46pkbrwid.onion
+Server: nginx/1.24.0 (Ubuntu)
+
+TOX: 243AAD0D1875CA4D48034E799785F2C9EA225E4466C87FA9B9297F7BEADC694478C7DE0A7639
+
+CROSS CLAIM
+===========
+Ruhrpumpen: AKIRA (DECEMBER 2025), ROYAL (JANUARY 2023)
+Miller Group: VOIDCRYPT
+Mayco: ANUBIS (NOVEMBER 2025)
+
+FILE SERVERS
+============
+jsqsgn6vehow5jnjqohteaqnhko6pmdvjzbim57bdvdtgobrmoibjzad.onion
+frwvvaqob3ofmegrbc4q2ovtwyf5u7ozyyv35unib3saq3ppx2pkwuad.onion
+667k2ck7qlzoqt52i6dq7evcfzko2ezfrhgv6zziccjet2cc653kvbid.onion
+e6q3vpkqpqjnerdtseb5wkgmuluqfsluu2sgwjghtrlf2u2pzybrlzid.onion
+kic4bflgzxoo2oq5wn52frqpzba2b75iodhqjgtdulchdeph73kq6zqd.onion
+7y6rr2oawf63yf2zjdidijun7p6gtjqye7b44vqyvilva3or324k3kad.onion
+x4emye5homuwkrvrfaoql53hc5spbazkvcw3m4pv6jaj5tjqmjizleqd.onion
+2zl5qc3mqap7vziqfis65oyjcgdiedigoequxbqsn6uwian7ieozvoqd.onion
+pokttabd2hod47ladeeoin22wmq4remyo3wshwvxfuhgqygcbezq2qqd.onion
+x2jz63qemhcbhyskzt3pie757oicdkctk2rh5dpykmxsw2yoayeqs5yd.onion
+t2ru74fbgut26xnagtrl4ajeh5vqytrl6cpr6cubmr6sqdxk5guh5mqd.onion
+wjcml4mxpcvsmjxm33zhjb46nzutxk6g3f5w23fopgpwj6pqjcidiyqd.onion
+3i5px2hibsyityv6jixnqba35yz25jekbwwumjdxjqzt3euqsygjx5id.onion
+tjaaioz32salcoj63ttxra6nfqggwbcezkzpwnhyoiwq5tuimzmsb3qd.onion
+
+
