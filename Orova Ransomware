@@ -1,0 +1,15 @@
+💡INTEL
+========
+📌Initially spotted in May 2026
+📌Targets mainly the US
+📌Attack Sector also includes Healthcare
+📌Most active month detected is August with 22+ victims
+📌The DLS runs on nginx/1.18.0 (Ubuntu)
+📌A dedicated Onion Domain is present as Negotiation Panel
+
+DLS: mll5ddmdzgiq2siv3qnocmmqyiigfpajtc663xtf32qtp6weycyx2hyd.onion
+NEGO: ns7y6bxawualjj5rpo5num6syejd7hgaowrndk3r4duxu2iyinzv6hid.onion
+
+MD5
+===
+365437a77b3c0f1bad9b3c504ad5102a
