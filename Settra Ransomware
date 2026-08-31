@@ -1,12 +1,13 @@
 💡INTEL
 ========
 📌Initially appeared in late June 2026
-📌Announced 11 victims (as of now), topping the US
+📌Announced 53 victims (Sept 2026), topping the US
 📌Screenshots are shared as Proof of Hack on their DLS
 📌DLS hosted on NGINX Server
 📌Each Victim's detailed report is available on the victim leak page that details confidential information and their business model
 📌Threat Actors had setup dedicated Onion Domains for each Victim's Data Leak
 📌Vanity Domain Name is setup for main DLS
+📌In late August, the group transported entire victim leaks to 3 dedicated domains as File Servers
 
 ONION DLS
 =========
@@ -16,6 +17,9 @@ CHAT: settra5ceeidlmbt2d7zupsb3r7djl2azjj4mho5kznmdap6vnoxoxqd.onion
 
 ONION FS
 ========
+r2vpglmz42fs5762tchek55bg4kdg3c6ozipg7wqs2ghzbhsdtwkzmyd.onion
+rz5lecsm2re5ec4im362jnalrypxylxsdobuibuotbovvs4d3ctrcoyd.onion
+hhj2nouojnatg6gvhfgrcqdanoe244gf26pixpnrcoxs7jiqu4atvzyd.onion
 pbxvml6h3wz35qlr5muy2cg5jvjsd4qhjlsztmxj4lqkyohnfdrntqyd.onion
 26z3gms2rshr2zzedxhw5fbucilmgt2inhmxzmuhteyztpxohoqplgyd.onion
 ttfy4zmtiaywfkkmykpxiwtlxkcr5ofvrhqgxxyspgwzbxkc3uze7jid.onion
