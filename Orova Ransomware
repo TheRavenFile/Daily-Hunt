@@ -8,6 +8,11 @@
 📌The DLS runs on nginx/1.18.0 (Ubuntu)
 📌A dedicated Onion Domain is present as Negotiation Panel
 📌2 dedicated Onion Domains are setup as Victim File Servers
+💡The Negotiation Panel hosted with WSGIServer/0.2 CPython/3.10.12
+💡The group uses "Read Receipt" for the active interaction with the victim
+💡The Ransom Demand went from $200K -> $100K
+💡It's observed that they occasionally power off their panel and usually makes it available after a few hours
+💡Their Initial Attack vector is: Credential Purchase from the Dark Web
 
 DLS: mll5ddmdzgiq2siv3qnocmmqyiigfpajtc663xtf32qtp6weycyx2hyd.onion
 NEGO: ns7y6bxawualjj5rpo5num6syejd7hgaowrndk3r4duxu2iyinzv6hid.onion
