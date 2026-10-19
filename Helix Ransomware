@@ -10,6 +10,7 @@
 💡The Server Response passed through Waitress, a pure-Python WSGI HTTP server
 💡Earliest leak traced to 26th July 2026, though the operations might have commenced much earlier
 💡Unique TOX IDs are generated for each victim, which is obtained from victim's ransom note
+💡When new batch of victims are announced, older leaks are disabled by the group though the listing is present
 
 
 🧅DLS: helixr2sncrd3ndsz5oho6mzqw3x5u7mvox5zcsngc5wm7v4l5k7oryd.onion
