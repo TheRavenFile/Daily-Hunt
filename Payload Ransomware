@@ -5,6 +5,7 @@ INTEL
 📌Their DLS, Chat Panel and File Server - All 3 hosted with nginx/1.30.5
 📌Infected about 80+ victims, averaging 9 victims per month
 📌Completely uses Vanity Domain Names for their project
+📌Chat Panel and File Server is titled as "Payload Rescue"
 
 DLS: payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion
 nginx/1.30.5
@@ -15,3 +16,5 @@ nginx/1.30.5
 FILE SERVER
 payload6eualw6kni6v2lqn7ovjcl76ojx25z5unsyvqo3lbqy3bo5qd.onion
 nginx/1.30.5
+
+TOX: 116A337A063FBB66C4B7DFB4FC2271759A89B08757FD8376CE632CB0290BEB252F91B4B34C47
