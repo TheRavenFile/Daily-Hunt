@@ -22,6 +22,9 @@ FILE SERVERS
 maa2yprc5pldyr5hjn246hw7i66wdhglnostqgqkcbuh4vyyeos4xxyd.onion
 mzlajyncb2rafn5bsb7esmo73kyawjxeirunba27n6nermmafzlcp4qd.onion
 
+WSGIServer/0.2 CPython/3.10.12
+WSGIServer/0.2 CPython/3.12.3
+
 TOX: 1F3A17E9670C56A3CCF85581468524FE5997B1131630C67747A11C0B6A131520790DF354547D
 
 MD5
